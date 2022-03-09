@@ -3,3 +3,5 @@ date >> README.md
 git add README.md
 git commit -m "added date"
 git push
+ 9 мар 2022 г. 23:26:18
+ 9 мар 2022 г. 23:29:21
