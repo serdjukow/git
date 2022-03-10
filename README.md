@@ -17,7 +17,7 @@
 #### эквивалентно этому:
 > *$ git add :/test/path*
 ####
-> *$ git commit -m "added date"*
+> *$ git commit -m "commit title"*
 > *$ git push*
 
 > *$ git remote -v*
@@ -29,4 +29,5 @@
 > *$ git remote rm origin*
 > *$ git remote add origin git@github.com:sendelufa/tutorial-ssh.git* 
 
-9 мар 2022 г. 23:50:58
+
+Thu Mar 10 08:52:13     2022
